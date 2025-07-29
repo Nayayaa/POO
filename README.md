@@ -1,2 +1,2 @@
 # POO
-Exercicíos em Java em Padrões e Orientada ao Objeto.
+Exercicíos em Java para Padrões e Orientada ao Objeto.
